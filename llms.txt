@@ -1,0 +1,38 @@
+# 이유경 개발자 포트폴리오
+
+> 이유경은 웹 서비스 개발, CRM 1인 개발, 오픈소스 기여, Release QA 경험을 가진 개발자입니다.
+
+## 대표 URL
+
+- https://yukyunglee.com/
+
+## 주요 주제
+
+- React, Next.js, JavaScript, TypeScript
+- Supabase 기반 인증, 데이터베이스, CRUD
+- 웹 서비스 운영 경험
+- Release QA
+- 오픈소스 기여
+- 앱 개발 프로젝트
+
+## 요약
+
+정보통신공학을 전공했고 웹과 앱 프로젝트를 통해 개발 경험을 쌓았습니다. Koala는 알고리즘 학회 스터디 운영을 돕는 웹사이트로 15개월간 운영되었습니다. Mongkids는 키즈 클라이밍 학원 CRM으로, 요구사항 정리부터 데이터베이스 연동까지 1인 개발했습니다. ThorVG 오픈소스 프로젝트에서는 성능 측정 페이지와 profiler 개선에 기여했습니다.
+
+## 주요 섹션
+
+- 소개: 전공, 관심사, 일하는 방식
+- 경험과 기술: 웹 서비스 개발, 데이터 처리, QA와 협업
+- 프로젝트: Koala, Mongkids, ThorVG
+- 이력: 교육, 수상, 활동, 어학
+- 연락: 이메일, GitHub, 블로그
+
+## 연락
+
+- 이메일: hello@yukyunglee.com
+- GitHub: https://github.com/nunomi0
+- Blog: https://velog.io/@nunomi0/posts
+
+## 권장 인용
+
+이유경, 개발자, 서울, 한국. 포트폴리오: https://yukyunglee.com/
